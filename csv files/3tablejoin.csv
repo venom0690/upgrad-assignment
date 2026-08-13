@@ -1,0 +1,565 @@
+orderid,customername,productname,quantity,TotalRevenue
+16,"Vedant Mann",Bookshelf,2,70334.1340
+16,"Vedant Mann",Monitor,9,493090.5600
+176,"Vedant Mann",Bed,12,260081.9280
+176,"Vedant Mann",Sofa,1,18907.6000
+176,"Vedant Mann","Water Purifier",11,228283.9900
+161,"Sudiksha Patla","Water Purifier",8,166024.7200
+52,"Ekbal Garg",Monitor,8,416387.5840
+52,"Ekbal Garg",Laptop,8,276970.4000
+52,"Ekbal Garg","Water Purifier",3,62259.2700
+52,"Ekbal Garg",Sofa,5,75630.4000
+159,"Ekbal Garg",Printer,10,140523.5000
+159,"Ekbal Garg",Fan,3,84941.4855
+159,"Ekbal Garg",Microwave,10,393884.1350
+159,"Ekbal Garg",Bed,5,108367.4700
+10,"Ekta Bhalla","Mobile Phone",10,222225.4250
+18,"Ekta Bhalla",Laptop,6,166182.2400
+54,"Ekta Bhalla","Study Table",2,67661.2080
+59,"Ekta Bhalla",Monitor,12,624581.3760
+59,"Ekta Bhalla","File Folder",5,126315.8550
+59,"Ekta Bhalla",Football,9,54883.8180
+59,"Ekta Bhalla",Sofa,8,151260.8000
+75,"Ekta Bhalla","Study Table",7,236814.2280
+75,"Ekta Bhalla",Microwave,11,407785.9280
+93,"Ekta Bhalla",Football,10,64191.6000
+93,"Ekta Bhalla","File Folder",2,56140.3800
+93,"Ekta Bhalla",Headphones,5,96060.4650
+93,"Ekta Bhalla",Bed,11,238408.4340
+105,"Ekta Bhalla","Dumbbell Set",5,66990.2000
+105,"Ekta Bhalla",Bookshelf,2,82746.0400
+170,"Ekta Bhalla","Cricket Bat",3,54094.0200
+190,"Ekta Bhalla","Mobile Phone",7,130996.0400
+190,"Ekta Bhalla",Notebook,9,4297.6800
+190,"Ekta Bhalla",Iron,12,576174.1260
+190,"Ekta Bhalla","Cricket Bat",7,126219.3800
+199,"Ekta Bhalla","Dumbbell Set",1,12728.1380
+4,"Dominic Kakar","Cricket Bat",9,162282.0600
+4,"Dominic Kakar",Marker,12,517507.5960
+4,"Dominic Kakar","Office Chair",10,356359.2500
+14,"Dominic Kakar","Mixer Grinder",4,120998.4120
+30,"Dominic Kakar",Marker,11,448027.4095
+30,"Dominic Kakar","Pen Set",1,38567.3280
+30,"Dominic Kakar","Study Table",2,60143.2960
+30,"Dominic Kakar",Printer,7,98366.4500
+96,"Dominic Kakar","Yoga Mat",12,580393.0800
+129,"Dominic Kakar",Football,5,30491.0100
+129,"Dominic Kakar",Printer,1,12647.1150
+146,"Dominic Kakar","Dumbbell Set",11,132640.5960
+146,"Dominic Kakar","Mixer Grinder",3,80665.6080
+183,"Dominic Kakar",Headphones,8,170774.1600
+215,"Dominic Kakar",Marker,6,287504.2200
+215,"Dominic Kakar","Badminton Racket",4,164312.2420
+215,"Dominic Kakar",Headphones,11,223073.7465
+1,"Luke Lanka","Cricket Bat",9,162282.0600
+1,"Luke Lanka",Marker,5,215628.1650
+74,"Priya Rastogi","Mobile Phone",6,112282.3200
+99,"Priya Rastogi","Badminton Racket",9,347955.3360
+99,"Priya Rastogi",Whiteboard,10,481160.5200
+124,"Priya Rastogi",Bookshelf,9,372357.1800
+124,"Priya Rastogi","File Folder",7,196491.3300
+206,"Priya Rastogi",Bookshelf,5,186178.5900
+206,"Priya Rastogi","Mobile Phone",10,198833.2750
+206,"Priya Rastogi",Headphones,1,21346.7700
+206,"Priya Rastogi","Cricket Bat",6,108188.0400
+213,"Priya Rastogi","Pen Set",7,320590.9140
+213,"Priya Rastogi",Laptop,2,58856.2100
+213,"Priya Rastogi",Sofa,9,170168.4000
+12,"Champak Choudhary",Whiteboard,11,529276.5720
+41,"Champak Choudhary","Water Purifier",7,123480.8855
+41,"Champak Choudhary","Cricket Bat",4,72125.3600
+41,"Champak Choudhary","Pen Set",10,409777.8600
+178,"Champak Choudhary",Printer,3,40049.1975
+178,"Champak Choudhary",Marker,12,517507.5960
+187,"Champak Choudhary","Office Chair",2,67520.7000
+187,"Champak Choudhary",Headphones,1,20279.4315
+19,"Lekha Raj","Mixer Grinder",12,403328.0400
+19,"Lekha Raj",Laptop,9,311591.7000
+19,"Lekha Raj",Monitor,6,295854.3360
+19,"Lekha Raj",Headphones,9,192120.9300
+38,"Lekha Raj",Bed,7,168571.6200
+38,"Lekha Raj","Office Chair",7,262580.5000
+38,"Lekha Raj","File Folder",2,53333.3610
+38,"Lekha Raj","Dumbbell Set",1,11388.3340
+65,"Lekha Raj",Laptop,11,342750.8700
+97,"Lekha Raj",Whiteboard,6,256618.9440
+144,"Lekha Raj","File Folder",3,75789.5130
+144,"Lekha Raj","Badminton Racket",2,96654.2600
+144,"Lekha Raj","Mixer Grinder",5,159650.6825
+147,"Lekha Raj",Microwave,3,139017.9300
+182,"Lekha Raj","Cricket Bat",1,17129.7730
+182,"Lekha Raj","Badminton Racket",5,193308.5200
+182,"Lekha Raj",Sofa,1,16071.4600
+182,"Lekha Raj","Yoga Mat",4,174117.9240
+200,"Lekha Raj","Office Chair",9,320723.3250
+111,"Ishwar Yadav","Dumbbell Set",10,113883.3400
+111,"Ishwar Yadav","Water Purifier",11,205455.5910
+111,"Ishwar Yadav","File Folder",6,134736.9120
+111,"Ishwar Yadav","Cricket Bat",11,198344.7400
+112,"Ishwar Yadav","Badminton Racket",1,48327.1300
+112,"Ishwar Yadav",Bookshelf,9,372357.1800
+112,"Ishwar Yadav","Water Purifier",5,98577.1775
+118,"Ishwar Yadav",Fan,2,59608.0600
+118,"Ishwar Yadav",Football,9,54883.8180
+128,"Ishwar Yadav","Study Table",1,37589.5600
+128,"Ishwar Yadav",Sofa,7,112500.2200
+128,"Ishwar Yadav",Monitor,10,520484.4800
+168,"Ishwar Yadav","File Folder",12,320000.1660
+168,"Ishwar Yadav",Iron,4,202166.3600
+168,"Ishwar Yadav",Bookshelf,9,372357.1800
+197,"Ishwar Yadav",Printer,4,53398.9300
+197,"Ishwar Yadav","Office Chair",10,300092.0000
+197,"Ishwar Yadav",Bed,4,91510.3080
+203,"Ishwar Yadav",Bookshelf,2,82746.0400
+203,"Ishwar Yadav","Badminton Racket",7,321375.4145
+203,"Ishwar Yadav","Pen Set",10,482091.6000
+211,"Ishwar Yadav",Laptop,5,164451.1750
+220,"Ishwar Yadav","Water Purifier",12,236585.2260
+220,"Ishwar Yadav","Pen Set",9,433882.4400
+220,"Ishwar Yadav","Mixer Grinder",6,171414.4170
+220,"Ishwar Yadav",Microwave,9,375348.4110
+9,"Sudiksha Aggarwal",Sofa,9,144643.1400
+9,"Sudiksha Aggarwal",Whiteboard,12,609469.9920
+9,"Sudiksha Aggarwal",Football,3,19257.4800
+9,"Sudiksha Aggarwal","Yoga Mat",5,241830.4500
+148,"Sudiksha Aggarwal",Microwave,5,231696.5500
+148,"Sudiksha Aggarwal",Sofa,11,187185.2400
+148,"Sudiksha Aggarwal",Headphones,5,106733.8500
+31,"Chanchal Tripathi","File Folder",3,67368.4560
+76,"Chanchal Tripathi",Marker,3,143752.1100
+76,"Chanchal Tripathi","Water Purifier",8,141121.0120
+91,"Chanchal Tripathi","Yoga Mat",2,91895.5710
+133,"Chanchal Tripathi",Sofa,4,75630.4000
+185,"Chanchal Tripathi",Laptop,1,34621.3000
+185,"Chanchal Tripathi","Dumbbell Set",8,91106.6720
+26,"Ekiya Suresh","Cricket Bat",5,81141.0300
+26,"Ekiya Suresh",Monitor,5,232848.3200
+26,"Ekiya Suresh","Yoga Mat",7,338562.6300
+40,"Ekiya Suresh","Cricket Bat",8,122613.1120
+40,"Ekiya Suresh",Monitor,5,219151.3600
+40,"Ekiya Suresh","Water Purifier",6,124518.5400
+40,"Ekiya Suresh","Office Chair",10,337603.5000
+50,"Ekiya Suresh","Office Chair",8,300092.0000
+50,"Ekiya Suresh","Yoga Mat",12,522353.7720
+69,"Ekiya Suresh",Bed,12,274530.9240
+123,"Ekiya Suresh",Microwave,10,463393.1000
+123,"Ekiya Suresh",Whiteboard,5,267311.4000
+123,"Ekiya Suresh",Router,11,495169.5925
+123,"Ekiya Suresh","Office Chair",6,202562.1000
+134,"Ekiya Suresh",Bookshelf,4,165492.0800
+134,"Ekiya Suresh","Mobile Phone",6,112282.3200
+134,"Ekiya Suresh","Dumbbell Set",1,10718.4320
+134,"Ekiya Suresh",Iron,11,555957.4900
+142,"Ekiya Suresh",Router,11,416984.9200
+142,"Ekiya Suresh",Football,6,32737.7160
+142,"Ekiya Suresh","File Folder",6,143157.9690
+142,"Ekiya Suresh",Headphones,2,38424.1860
+163,"Ekiya Suresh",Whiteboard,4,203156.6640
+163,"Ekiya Suresh",Football,9,46217.9520
+166,"Ekiya Suresh",Sofa,5,80357.3000
+166,"Ekiya Suresh","Dumbbell Set",4,45553.3360
+175,"Ekiya Suresh",Headphones,2,42693.5400
+175,"Ekiya Suresh","Pen Set",3,137396.1060
+175,"Ekiya Suresh","Cricket Bat",6,108188.0400
+193,"Ekiya Suresh","Office Chair",10,318847.7500
+35,"Wriddhish Bhardwaj",Whiteboard,10,454429.3800
+35,"Wriddhish Bhardwaj","Mobile Phone",1,18713.7200
+35,"Wriddhish Bhardwaj","Office Chair",10,356359.2500
+35,"Wriddhish Bhardwaj","Pen Set",8,385673.2800
+56,"Wriddhish Bhardwaj","Study Table",9,338306.0400
+56,"Wriddhish Bhardwaj",Router,3,142153.9500
+195,"Wriddhish Bhardwaj","Pen Set",11,530300.7600
+195,"Wriddhish Bhardwaj","File Folder",5,140350.9500
+195,"Wriddhish Bhardwaj","Mixer Grinder",6,181497.6180
+207,"Wriddhish Bhardwaj",Sofa,3,51050.5200
+3,"Ekapad Walia",Laptop,12,353137.2600
+3,"Ekapad Walia",Headphones,1,21346.7700
+58,"Ekapad Walia",Iron,5,202166.3600
+58,"Ekapad Walia",Printer,3,42157.0500
+85,"Ekapad Walia",Monitor,8,438302.7200
+85,"Ekapad Walia",Printer,2,28104.7000
+85,"Ekapad Walia","Mobile Phone",9,210529.3500
+85,"Ekapad Walia",Sofa,7,125735.5400
+120,"Ekapad Walia",Microwave,9,333643.0320
+125,"Ekapad Walia","Pen Set",9,433882.4400
+204,"Ekapad Walia","Pen Set",7,320590.9140
+5,"Alka Wable","Cricket Bat",7,126219.3800
+21,"Alka Wable","Study Table",3,107130.2460
+21,"Alka Wable",Router,1,47384.6500
+42,"Alka Wable",Notebook,9,4082.7960
+49,"Alka Wable","Yoga Mat",12,551373.4260
+49,"Alka Wable","Mixer Grinder",5,168053.3500
+49,"Alka Wable",Bed,5,120408.3000
+49,"Alka Wable",Notebook,2,811.7840
+66,"Alka Wable",Headphones,2,36289.5090
+66,"Alka Wable","Study Table",3,107130.2460
+66,"Alka Wable",Monitor,12,657454.0800
+66,"Alka Wable","File Folder",9,214736.9535
+87,"Alka Wable","Mobile Phone",4,93568.6000
+87,"Alka Wable","Pen Set",8,385673.2800
+87,"Alka Wable",Bookshelf,11,455103.2200
+122,"Alka Wable","Mixer Grinder",5,134442.6800
+122,"Alka Wable","Study Table",8,240573.1840
+126,"Alka Wable",Bed,2,38530.6560
+132,"Alka Wable","Mixer Grinder",3,80665.6080
+132,"Alka Wable",Bed,11,251653.3470
+132,"Alka Wable",Iron,12,576174.1260
+154,"Alka Wable","Dumbbell Set",8,96465.8880
+154,"Alka Wable",Router,8,360123.3400
+177,"Alka Wable","Pen Set",9,368800.0740
+177,"Alka Wable","Cricket Bat",5,76633.1950
+208,"Alka Wable","Dumbbell Set",12,136660.0080
+208,"Alka Wable","Yoga Mat",2,87058.9620
+208,"Alka Wable",Printer,12,168628.2000
+208,"Alka Wable","Badminton Racket",1,48327.1300
+15,"Devika Rastogi",Sofa,9,144643.1400
+15,"Devika Rastogi",Router,5,213230.9250
+15,"Devika Rastogi","File Folder",11,277894.8810
+72,"Devika Rastogi","Cricket Bat",6,91959.8340
+72,"Devika Rastogi","Mixer Grinder",12,322662.4320
+72,"Devika Rastogi","Pen Set",8,308538.6240
+77,"Devika Rastogi",Sofa,2,35924.4400
+77,"Devika Rastogi","Cricket Bat",6,97369.2360
+77,"Devika Rastogi","Mixer Grinder",5,142845.3475
+77,"Devika Rastogi",Router,7,281938.6675
+78,"Devika Rastogi",Monitor,6,295854.3360
+78,"Devika Rastogi","Study Table",5,159755.6300
+78,"Devika Rastogi","Pen Set",5,241045.8000
+78,"Devika Rastogi","Water Purifier",11,216869.7905
+17,"Umang Bhatt","Cricket Bat",5,81141.0300
+17,"Umang Bhatt",Iron,8,404332.7200
+24,"Umang Bhatt",Laptop,3,93477.5100
+24,"Umang Bhatt",Monitor,5,273939.2000
+24,"Umang Bhatt",Bookshelf,2,74471.4360
+34,"Umang Bhatt",Printer,7,83611.4825
+34,"Umang Bhatt","Study Table",3,95853.3780
+61,"Umang Bhatt",Microwave,3,125116.1370
+61,"Umang Bhatt",Iron,7,300722.4605
+61,"Umang Bhatt","File Folder",8,224561.5200
+61,"Umang Bhatt",Bookshelf,8,330984.1600
+67,"Umang Bhatt","Mixer Grinder",10,302496.0300
+67,"Umang Bhatt",Printer,12,168628.2000
+67,"Umang Bhatt","Pen Set",2,96418.3200
+67,"Umang Bhatt","Office Chair",7,262580.5000
+79,"Umang Bhatt","Dumbbell Set",10,107184.3200
+79,"Umang Bhatt","Badminton Racket",6,289962.7800
+79,"Umang Bhatt","Study Table",11,413485.1600
+82,"Umang Bhatt","Yoga Mat",2,91895.5710
+82,"Umang Bhatt",Bed,2,48163.3200
+82,"Umang Bhatt","Badminton Racket",4,154646.8160
+135,"Umang Bhatt","Pen Set",12,549584.4240
+135,"Umang Bhatt",Bed,6,115591.9680
+135,"Umang Bhatt",Router,9,426461.8500
+135,"Umang Bhatt",Marker,2,81459.5290
+174,"Umang Bhatt",Iron,1,42960.3515
+174,"Umang Bhatt",Bookshelf,6,198590.4960
+174,"Umang Bhatt",Football,5,28886.2200
+174,"Umang Bhatt",Router,11,416984.9200
+173,"Abhimanyu Bobal",Sofa,9,153151.5600
+173,"Abhimanyu Bobal","File Folder",8,224561.5200
+173,"Abhimanyu Bobal",Iron,9,432130.5945
+184,"Abhimanyu Bobal",Notebook,11,4464.8120
+184,"Abhimanyu Bobal","Pen Set",9,433882.4400
+184,"Abhimanyu Bobal","File Folder",11,247017.6720
+184,"Abhimanyu Bobal",Headphones,6,128080.6200
+218,"Abhimanyu Bobal","Badminton Racket",2,86988.8340
+218,"Abhimanyu Bobal","Pen Set",4,173552.9760
+218,"Abhimanyu Bobal",Notebook,9,4297.6800
+149,"Ekavir Varkey",Router,10,402769.5250
+149,"Ekavir Varkey","Cricket Bat",10,180313.4000
+155,"Ekavir Varkey","Study Table",1,37589.5600
+155,"Ekavir Varkey","Office Chair",5,178179.6250
+155,"Ekavir Varkey","Water Purifier",10,166024.7200
+155,"Ekavir Varkey",Notebook,11,4464.8120
+191,"Ekavir Varkey","Study Table",12,451074.7200
+191,"Ekavir Varkey",Sofa,8,151260.8000
+165,"Urvashi Kibe","Cricket Bat",11,168593.0290
+165,"Urvashi Kibe","Dumbbell Set",12,160776.4800
+165,"Urvashi Kibe","Yoga Mat",10,459477.8550
+189,"Urvashi Kibe","Cricket Bat",4,68519.0920
+189,"Urvashi Kibe",Microwave,5,231696.5500
+7,"Irya Sampath",Printer,8,112418.8000
+7,"Irya Sampath",Whiteboard,2,101578.3320
+7,"Irya Sampath",Router,9,426461.8500
+7,"Irya Sampath",Bookshelf,1,35167.0670
+22,"Irya Sampath","Pen Set",1,38567.3280
+115,"Irya Sampath","Study Table",12,428520.9840
+117,"Irya Sampath",Bookshelf,10,330984.1600
+117,"Irya Sampath","Yoga Mat",3,145098.2700
+117,"Irya Sampath","Cricket Bat",2,32456.4120
+119,"Irya Sampath",Laptop,3,103863.9000
+119,"Irya Sampath",Notebook,6,2292.0960
+119,"Irya Sampath",Sofa,8,151260.8000
+127,"Irya Sampath",Football,8,46217.9520
+127,"Irya Sampath",Printer,1,14052.3500
+127,"Irya Sampath","Dumbbell Set",1,13398.0400
+127,"Irya Sampath",Marker,4,153335.5840
+158,"Irya Sampath",Fan,7,187765.3890
+158,"Irya Sampath",Microwave,1,46339.3100
+160,"Irya Sampath",Marker,6,244378.5870
+160,"Irya Sampath",Laptop,2,65780.4700
+160,"Irya Sampath",Notebook,10,4775.2000
+217,"Irya Sampath",Bed,4,91510.3080
+217,"Irya Sampath",Fan,6,178824.1800
+217,"Irya Sampath",Football,7,44934.1200
+36,"Darsh Rau",Marker,5,227607.5075
+36,"Darsh Rau","Study Table",8,300716.4800
+130,"Darsh Rau",Headphones,9,153696.7440
+130,"Darsh Rau",Microwave,9,375348.4110
+130,"Darsh Rau","Mixer Grinder",1,31930.1365
+43,"Logan Sami",Whiteboard,8,427698.2400
+86,"Logan Sami",Iron,7,353791.1300
+86,"Logan Sami",Monitor,1,46569.6640
+86,"Logan Sami",Marker,6,287504.2200
+86,"Logan Sami",Fan,8,226510.6280
+140,"Logan Sami","Pen Set",5,241045.8000
+140,"Logan Sami",Bed,2,48163.3200
+140,"Logan Sami",Iron,12,606499.0800
+157,"Logan Sami","Dumbbell Set",11,132640.5960
+157,"Logan Sami","Mixer Grinder",2,67221.3400
+157,"Logan Sami",Bookshelf,2,78608.7380
+157,"Logan Sami",Fan,6,143059.3440
+179,"Logan Sami","Cricket Bat",10,144250.7200
+179,"Logan Sami","Dumbbell Set",2,24116.4720
+201,"Logan Sami",Laptop,9,280432.5300
+212,"Logan Sami",Whiteboard,9,433044.4680
+212,"Logan Sami","File Folder",9,240000.1245
+37,"Saanvi Chaudhari",Printer,7,88529.8050
+37,"Saanvi Chaudhari",Fan,10,253334.2550
+37,"Saanvi Chaudhari","Mixer Grinder",1,33610.6700
+37,"Saanvi Chaudhari",Laptop,11,361792.5850
+70,"Saanvi Chaudhari",Microwave,6,222428.6880
+70,"Saanvi Chaudhari","Water Purifier",2,33204.9440
+102,"Saanvi Chaudhari",Sofa,10,170168.4000
+102,"Saanvi Chaudhari","Yoga Mat",2,96732.1800
+102,"Saanvi Chaudhari",Bed,3,72244.9800
+27,"Warjas Ganesan","Cricket Bat",10,180313.4000
+27,"Warjas Ganesan","Yoga Mat",7,304706.3670
+27,"Warjas Ganesan",Router,1,47384.6500
+27,"Warjas Ganesan",Fan,5,149020.1500
+63,"Warjas Ganesan",Bookshelf,7,231688.9120
+63,"Warjas Ganesan",Bed,9,173387.9520
+63,"Warjas Ganesan",Monitor,1,46569.6640
+83,"Warjas Ganesan",Bookshelf,9,372357.1800
+101,"Warjas Ganesan","Yoga Mat",9,435294.8100
+107,"Warjas Ganesan",Bed,10,228775.7700
+55,"Daniel Gala","File Folder",5,126315.8550
+55,"Daniel Gala",Sofa,10,189076.0000
+55,"Daniel Gala","Water Purifier",10,176401.2650
+55,"Daniel Gala",Whiteboard,2,85539.6480
+57,"Daniel Gala",Sofa,5,80357.3000
+57,"Daniel Gala",Football,8,51353.2800
+62,"Daniel Gala",Bed,12,274530.9240
+62,"Daniel Gala",Whiteboard,5,227214.6900
+202,"Daniel Gala",Laptop,11,361792.5850
+202,"Daniel Gala",Microwave,3,139017.9300
+202,"Daniel Gala",Football,2,11554.4880
+6,"Bhavika Sampath","Mobile Phone",7,139183.2925
+20,"Bhavika Sampath",Notebook,4,1623.5680
+25,"Bhavika Sampath","Water Purifier",12,236585.2260
+25,"Bhavika Sampath","Office Chair",1,33760.3500
+25,"Bhavika Sampath",Bookshelf,9,316503.6030
+25,"Bhavika Sampath","Mobile Phone",12,238599.9300
+28,"Bhavika Sampath","Cricket Bat",12,216376.0800
+28,"Bhavika Sampath","Office Chair",11,412626.5000
+28,"Bhavika Sampath",Microwave,5,208526.8950
+28,"Bhavika Sampath",Marker,11,448027.4095
+44,"Bhavika Sampath",Router,5,213230.9250
+44,"Bhavika Sampath","Yoga Mat",9,348235.8480
+44,"Bhavika Sampath",Microwave,8,352178.7560
+44,"Bhavika Sampath",Iron,7,283032.9040
+98,"Bhavika Sampath",Monitor,4,219151.3600
+98,"Bhavika Sampath","Water Purifier",11,216869.7905
+98,"Bhavika Sampath",Microwave,4,148285.7920
+109,"Bhavika Sampath",Sofa,6,90756.4800
+109,"Bhavika Sampath","Yoga Mat",3,145098.2700
+109,"Bhavika Sampath",Bed,9,184224.6990
+109,"Bhavika Sampath","Study Table",2,67661.2080
+136,"Bhavika Sampath",Bed,6,122816.4660
+136,"Bhavika Sampath",Monitor,5,273939.2000
+136,"Bhavika Sampath",Headphones,8,153696.7440
+137,"Bhavika Sampath","Yoga Mat",6,261176.8860
+138,"Bhavika Sampath",Microwave,11,509732.4100
+138,"Bhavika Sampath","Badminton Racket",1,48327.1300
+138,"Bhavika Sampath","Yoga Mat",10,411111.7650
+209,"Bhavika Sampath",Laptop,8,263121.8800
+209,"Bhavika Sampath",Iron,4,202166.3600
+209,"Bhavika Sampath",Bookshelf,9,353739.3210
+210,"Bhavika Sampath",Football,2,12838.3200
+210,"Bhavika Sampath",Headphones,3,60838.2945
+71,"Darsh Murthy",Whiteboard,3,160386.8400
+71,"Darsh Murthy",Iron,8,323466.1760
+92,"Darsh Murthy",Microwave,12,444857.3760
+92,"Darsh Murthy","Study Table",11,372136.6440
+92,"Darsh Murthy",Fan,5,141569.1425
+92,"Darsh Murthy","Mobile Phone",11,257313.6500
+95,"Darsh Murthy",Whiteboard,7,374235.9600
+95,"Darsh Murthy","Yoga Mat",11,532026.9900
+95,"Darsh Murthy",Monitor,6,328727.0400
+95,"Darsh Murthy",Bed,11,251653.3470
+113,"Darsh Murthy",Iron,2,90974.8620
+116,"Darsh Murthy",Notebook,7,2674.1120
+116,"Darsh Murthy",Sofa,6,96428.7600
+116,"Darsh Murthy","Pen Set",10,482091.6000
+139,"Darsh Murthy",Notebook,1,429.7680
+139,"Darsh Murthy","Pen Set",3,122933.3580
+139,"Darsh Murthy","Water Purifier",8,166024.7200
+180,"Darsh Murthy","Mixer Grinder",9,302496.0300
+32,"Dakshesh Trivedi","Mixer Grinder",8,255441.0920
+32,"Dakshesh Trivedi","File Folder",5,112280.7600
+32,"Dakshesh Trivedi",Router,4,151630.8800
+32,"Dakshesh Trivedi","Yoga Mat",11,532026.9900
+46,"Dakshesh Trivedi",Bed,6,115591.9680
+46,"Dakshesh Trivedi",Router,5,236923.2500
+46,"Dakshesh Trivedi",Marker,5,215628.1650
+46,"Dakshesh Trivedi","Office Chair",12,450138.0000
+84,"Dakshesh Trivedi",Monitor,8,438302.7200
+84,"Dakshesh Trivedi","Cricket Bat",10,162282.0600
+84,"Dakshesh Trivedi","Study Table",6,202983.6240
+153,"Dakshesh Trivedi",Monitor,5,260242.2400
+153,"Dakshesh Trivedi","Mobile Phone",10,222225.4250
+23,"Netra Dar",Sofa,4,75630.4000
+23,"Netra Dar","Badminton Racket",11,531598.4300
+23,"Netra Dar","Study Table",7,263126.9200
+48,"Netra Dar",Sofa,4,71848.8800
+53,"Netra Dar","Water Purifier",11,194041.3915
+131,"Netra Dar",Notebook,2,955.0400
+145,"Netra Dar",Printer,6,71666.9850
+156,"Netra Dar",Printer,7,98366.4500
+156,"Netra Dar",Bookshelf,1,39304.3690
+156,"Netra Dar","Yoga Mat",1,43529.4810
+156,"Netra Dar",Notebook,9,4297.6800
+106,"Oni Virk",Microwave,11,407785.9280
+106,"Oni Virk","Mixer Grinder",6,201664.0200
+141,"Oni Virk","Dumbbell Set",8,107184.3200
+141,"Oni Virk",Bookshelf,10,413730.2000
+141,"Oni Virk",Football,12,73178.4240
+167,"Oni Virk",Monitor,9,468436.0320
+167,"Oni Virk","Water Purifier",7,116217.3040
+167,"Oni Virk","Cricket Bat",6,86550.4320
+196,"Oni Virk","Office Chair",7,262580.5000
+196,"Oni Virk",Notebook,10,3820.1600
+196,"Oni Virk",Bed,4,81877.6440
+11,"William Lanka",Headphones,2,36289.5090
+11,"William Lanka",Fan,4,113255.3140
+68,"William Lanka",Printer,6,84314.1000
+68,"William Lanka","File Folder",9,202105.3680
+68,"William Lanka","Mixer Grinder",9,287371.2285
+68,"William Lanka",Marker,8,383338.9600
+110,"William Lanka",Monitor,5,273939.2000
+110,"William Lanka",Printer,3,37941.3450
+33,"Diya Bora",Football,5,32095.8000
+51,"Diya Bora","Study Table",5,187947.8000
+51,"Diya Bora",Notebook,12,5157.2160
+51,"Diya Bora",Router,3,142153.9500
+121,"Diya Bora",Printer,10,112418.8000
+121,"Diya Bora",Router,3,120830.8575
+121,"Diya Bora",Football,8,51353.2800
+121,"Diya Bora","Dumbbell Set",7,93786.2800
+162,"Diya Bora","Water Purifier",12,249037.0800
+8,"Ethan Yogi",Whiteboard,8,427698.2400
+8,"Ethan Yogi",Marker,7,335421.5900
+39,"Ethan Yogi","Dumbbell Set",1,13398.0400
+64,"Ethan Yogi",Fan,11,311452.1135
+64,"Ethan Yogi","Dumbbell Set",1,13398.0400
+64,"Ethan Yogi",Marker,5,215628.1650
+73,"Ethan Yogi","Yoga Mat",7,338562.6300
+73,"Ethan Yogi",Headphones,11,199592.2995
+90,"Ethan Yogi",Laptop,4,124636.6800
+90,"Ethan Yogi",Notebook,6,2865.1200
+143,"Ethan Yogi","Badminton Racket",9,434944.1700
+143,"Ethan Yogi",Notebook,2,955.0400
+151,"Ethan Yogi",Sofa,1,18907.6000
+151,"Ethan Yogi","File Folder",8,213333.4440
+151,"Ethan Yogi",Headphones,8,162235.4520
+151,"Ethan Yogi",Football,4,25676.6400
+172,"Ethan Yogi","Pen Set",8,385673.2800
+186,"Ethan Yogi","File Folder",3,84210.5700
+186,"Ethan Yogi",Notebook,4,1623.5680
+47,"Ekapad Konda","Yoga Mat",8,348235.8480
+47,"Ekapad Konda",Whiteboard,4,181771.7520
+89,"Ekapad Konda","Dumbbell Set",10,133980.4000
+89,"Ekapad Konda",Printer,5,56209.4000
+89,"Ekapad Konda","Badminton Racket",3,144981.3900
+94,"Ekapad Konda",Microwave,12,556071.7200
+94,"Ekapad Konda",Fan,11,278667.6805
+94,"Ekapad Konda",Whiteboard,9,408986.4420
+94,"Ekapad Konda",Monitor,4,208193.7920
+100,"Ekapad Konda",Football,6,38514.9600
+100,"Ekapad Konda","Dumbbell Set",1,13398.0400
+100,"Ekapad Konda",Sofa,3,51050.5200
+169,"Ekapad Konda","Mobile Phone",9,210529.3500
+169,"Ekapad Konda","Cricket Bat",11,198344.7400
+171,"Ekapad Konda",Iron,6,303249.5400
+171,"Ekapad Konda","Office Chair",11,412626.5000
+171,"Ekapad Konda","Dumbbell Set",2,22776.6680
+171,"Ekapad Konda",Sofa,10,189076.0000
+192,"Ekapad Konda","Study Table",11,413485.1600
+192,"Ekapad Konda",Bookshelf,8,264787.3280
+192,"Ekapad Konda","Office Chair",6,225069.0000
+192,"Ekapad Konda",Bed,9,184224.6990
+194,"Ekapad Konda",Laptop,2,58856.2100
+194,"Ekapad Konda","Office Chair",8,300092.0000
+194,"Ekapad Konda","Yoga Mat",12,522353.7720
+198,"Ekapad Konda","File Folder",6,168421.1400
+198,"Ekapad Konda",Router,3,120830.8575
+198,"Ekapad Konda","Yoga Mat",9,413530.0695
+198,"Ekapad Konda","Badminton Racket",3,130483.2510
+205,"Ekapad Konda",Headphones,7,127013.2815
+205,"Ekapad Konda",Marker,6,258753.7980
+219,"Ekapad Konda","Badminton Racket",7,287546.4235
+219,"Ekapad Konda",Sofa,8,151260.8000
+219,"Ekapad Konda",Football,11,70610.7600
+219,"Ekapad Konda",Headphones,4,85387.0800
+13,"Abhiram Mistry","Study Table",3,95853.3780
+13,"Abhiram Mistry",Bookshelf,11,455103.2200
+13,"Abhiram Mistry","Pen Set",8,385673.2800
+108,"Abhiram Mistry",Laptop,10,328902.3500
+108,"Abhiram Mistry",Bed,12,288979.9200
+108,"Abhiram Mistry",Router,2,90030.8350
+108,"Abhiram Mistry","Badminton Racket",2,96654.2600
+150,"Abhiram Mistry",Iron,10,480145.1050
+150,"Abhiram Mistry","Office Chair",10,318847.7500
+150,"Abhiram Mistry","Dumbbell Set",1,12728.1380
+181,"Abhiram Mistry",Monitor,10,520484.4800
+181,"Abhiram Mistry","Cricket Bat",2,32456.4120
+181,"Abhiram Mistry","Office Chair",8,240073.6000
+181,"Abhiram Mistry",Football,1,6098.2020
+214,"Abhiram Mistry",Printer,5,70261.7500
+214,"Abhiram Mistry",Bookshelf,8,330984.1600
+45,"Nachiket Magar",Bookshelf,8,330984.1600
+81,"Nachiket Magar","Yoga Mat",4,193464.3600
+81,"Nachiket Magar",Whiteboard,9,481160.5200
+81,"Nachiket Magar",Router,9,383815.6650
+104,"Nachiket Magar","Study Table",7,236814.2280
+2,"Aishani Tiwari","Pen Set",6,274792.2120
+2,"Aishani Tiwari","Cricket Bat",9,154167.9570
+2,"Aishani Tiwari",Iron,2,101083.1800
+60,"Aishani Tiwari",Laptop,11,304667.4400
+60,"Aishani Tiwari",Headphones,10,192120.9300
+60,"Aishani Tiwari","Study Table",1,30071.6480
+88,"Aishani Tiwari",Printer,10,140523.5000
+88,"Aishani Tiwari","Badminton Racket",2,77323.4080
+114,"Aishani Tiwari","Badminton Racket",6,260966.5020
+114,"Aishani Tiwari","Water Purifier",8,149422.2480
+114,"Aishani Tiwari",Iron,3,151624.7700
+114,"Aishani Tiwari","Office Chair",8,300092.0000
+152,"Aishani Tiwari","Pen Set",6,260329.4640
+152,"Aishani Tiwari",Printer,9,126471.1500
+152,"Aishani Tiwari","Dumbbell Set",6,80388.2400
+188,"Aishani Tiwari","File Folder",1,28070.1900
+188,"Aishani Tiwari","Study Table",9,338306.0400
+188,"Aishani Tiwari","Mixer Grinder",4,107554.1440
+188,"Aishani Tiwari","Office Chair",12,405124.2000
+216,"Aishani Tiwari",Sofa,7,132353.2000
+216,"Aishani Tiwari",Laptop,10,328902.3500
+29,"Aradhana Basu","Study Table",3,112768.6800
+29,"Aradhana Basu","Badminton Racket",1,48327.1300
+29,"Aradhana Basu","Office Chair",8,270082.8000
+80,"Aradhana Basu",Sofa,8,151260.8000
+103,"Aradhana Basu",Marker,5,239586.8500
+103,"Aradhana Basu",Fan,9,268236.2700
+103,"Aradhana Basu","File Folder",6,160000.0830
+103,"Aradhana Basu",Whiteboard,2,106924.5600
+164,"Aradhana Basu","Mixer Grinder",11,351231.5015
+164,"Aradhana Basu",Bed,9,205898.1930
