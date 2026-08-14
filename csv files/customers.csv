@@ -1,0 +1,41 @@
+CustomerID,CustomerName,City,State,Region,CustomerSegment,JoinDate
+1,"Vedant Mann",Muzaffarpur,"West Bengal",South,Corporate,2019-08-10
+2,"Sudiksha Patla",Uluberia,Kerala,East,Consumer,2020-04-04
+3,"Ekbal Garg",Ujjain,Manipur,North,"Small Business",2021-04-11
+4,"Ekta Bhalla",Patna,"Uttar Pradesh",North,"Home Office",2020-11-22
+5,"Dominic Kakar","Rajpur Sonarpur",Rajasthan,East,"Home Office",2021-12-29
+6,"Luke Lanka",Shahjahanpur,Telangana,North,"Small Business",2022-05-14
+7,"Priya Rastogi",Muzaffarnagar,Chhattisgarh,Central,Consumer,2022-01-21
+8,"Champak Choudhary",Kozhikode,"Uttar Pradesh",West,Consumer,2023-01-30
+9,"Lekha Raj",Dehri,"Himachal Pradesh",Central,"Home Office",2024-10-28
+10,"Ishwar Yadav",Mau,Bihar,Central,"Home Office",2020-10-05
+11,"Sudiksha Aggarwal",Orai,Tripura,Central,Corporate,2020-01-27
+12,"Chanchal Tripathi",Jamnagar,Kerala,North,Consumer,2023-07-29
+13,"Ekiya Suresh",Gorakhpur,Kerala,South,"Home Office",2024-04-09
+14,"Wriddhish Bhardwaj",Tezpur,Assam,North,Corporate,2019-07-07
+15,"Ekapad Walia",Warangal,Sikkim,North,"Small Business",2021-11-07
+16,"Alka Wable","Rajpur Sonarpur",Nagaland,East,"Small Business",2023-07-13
+17,"Devika Rastogi",Bahraich,Mizoram,East,Corporate,2021-09-16
+18,"Umang Bhatt",Jaipur,Odisha,East,"Home Office",2022-04-28
+19,"Abhimanyu Bobal",Berhampur,Assam,South,"Home Office",2024-06-06
+20,"Ekavir Varkey",Alwar,Sikkim,North,Corporate,2021-11-29
+21,"Urvashi Kibe",Vellore,Gujarat,Central,Corporate,2019-07-26
+22,"Irya Sampath",Bhind,"West Bengal",South,"Small Business",2023-05-17
+23,"Darsh Rau",Moradabad,Haryana,West,"Home Office",2020-02-24
+24,"Logan Sami",Alwar,Manipur,Central,Corporate,2020-07-01
+25,"Saanvi Chaudhari",Panvel,Uttarakhand,East,Consumer,2019-02-02
+26,"Warjas Ganesan",Shivpuri,Meghalaya,South,Consumer,2020-04-13
+27,"Daniel Gala",Delhi,"Madhya Pradesh",East,"Small Business",2020-08-04
+28,"Bhavika Sampath",Bhatpara,Gujarat,East,Consumer,2020-10-12
+29,"Darsh Murthy",Dhanbad,Odisha,South,"Home Office",2021-11-10
+30,"Dakshesh Trivedi",Gaya,Assam,South,"Small Business",2022-07-27
+31,"Netra Dar",Adoni,Punjab,West,"Small Business",2019-03-29
+32,"Oni Virk",Bhilwara,Gujarat,South,"Home Office",2023-01-07
+33,"William Lanka",Mira-Bhayandar,Sikkim,South,Corporate,2022-11-15
+34,"Diya Bora",Berhampore,Punjab,Central,"Home Office",2024-12-27
+35,"Ethan Yogi",Guna,"Himachal Pradesh",Central,"Small Business",2019-10-18
+36,"Ekapad Konda",Anantapuram,Goa,Central,"Small Business",2021-08-18
+37,"Abhiram Mistry",Guntur,"Himachal Pradesh",East,Corporate,2019-09-10
+38,"Nachiket Magar",Mahbubnagar,Gujarat,South,"Small Business",2023-04-22
+39,"Aishani Tiwari",Chandrapur,"West Bengal",North,Consumer,2019-04-22
+40,"Aradhana Basu",Thoothukudi,Tripura,North,Corporate,2019-10-14

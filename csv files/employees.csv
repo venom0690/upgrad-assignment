@@ -1,0 +1,11 @@
+EmployeeID,EmployeeName,Department,Region,HireDate,ManagerID
+1,"Aryan Maharaj",Sales,North,2019-05-07,NULL
+2,"Harsh Chahal",Logistics,South,2021-03-30,NULL
+3,"Ayushman Chander",Support,North,2019-03-15,2
+4,"Rushil Saini",Sales,Central,2019-03-19,3
+5,"Abeer Dutta",Sales,North,2021-11-01,NULL
+6,"Arunima Dugal",Support,South,2019-03-08,4
+7,"Harsh Chanda",Sales,Central,2020-02-02,1
+8,"Hemangini Lalla",Marketing,South,2022-06-08,7
+9,"Jeet Radhakrishnan",Logistics,North,2018-06-08,2
+10,"Janaki Handa",Marketing,East,2021-11-14,4
